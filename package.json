@@ -1,7 +1,7 @@
 {
   "name": "react-private-public-route",
-  "version": "1.0.2",
-  "description": "React router package which provide private, public & restricted routes which helps to authenticate different routes and component.",
+  "version": "1.0.3",
+  "description": "React router package which provide private, public & restricted routes which helps to authenticate different routes in react App.",
   "main": "build/index.js",
   "repository": {
     "type": "git",
@@ -27,6 +27,7 @@
     "prop-types",
     "react-router",
     "react-router-dom",
+    "react-private-public-route",
     "react-routing",
     "react-private-route",
     "react-public-route",
@@ -37,7 +38,8 @@
   "license": "MIT",
   "dependencies": {
     "prop-types": "^15.7.2",
-    "react": "^16.13.0"
+    "react": "^16.13.0",
+    "react-router-dom": "^5.1.2"
   },
   "devDependencies": {
     "@babel/core": "^7.8.7",
@@ -45,7 +47,6 @@
     "@babel/preset-react": "^7.8.3",
     "babel-loader": "^8.0.6",
     "webpack": "^4.42.0",
-    "webpack-cli": "^3.3.11",
-    "react-router-dom": "^5.1.2"
+    "webpack-cli": "^3.3.11"
   }
 }

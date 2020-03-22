@@ -5,6 +5,10 @@
 
 Public and Private Routng with restricted functionality in React
 
+### Working demo available at
+
+[![Edit y0pw4kz8kx](https://codesandbox.io/static/img/play-codesandbox.svg)](https://codesandbox.io/s/modest-elgamal-153oc)
+
 ### Installation
 
 Using [npm](https://www.npmjs.com/):
