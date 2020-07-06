@@ -5,7 +5,7 @@ name: react-private-public-route
 
 on:
   release:
-    types: [published]
+    types: [created]
 
 jobs:
   build:
