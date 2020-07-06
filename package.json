@@ -1,6 +1,6 @@
 {
   "name": "react-private-public-route",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "React router package which provide private, public & restricted routes which helps to authenticate different routes in react App.",
   "main": "build/index.js",
   "repository": {
