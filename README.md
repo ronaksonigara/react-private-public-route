@@ -8,7 +8,10 @@ Public and Private Routng with restricted functionality in React
 
 ### Working demo available at
 
-[![Edit y0pw4kz8kx](https://codesandbox.io/static/img/play-codesandbox.svg)](https://codesandbox.io/s/modest-elgamal-153oc)
+[Github pages](https://ronaksonigara.github.io/react-private-public-route-example/)
+
+Code Example available at:
+[Github](https://github.com/ronaksonigara/react-private-public-route-example)
 
 ### Installation
 
@@ -71,7 +74,7 @@ export default App
 | --------------- | ---------- | ------------ | ---------- | ------------------------------------------------------------------------ |
 | restricted      | bool       | false        | -          | If set to true it will be redirected                                     |
 | component       | funtion    | -            | yes        | Component which needs to be rendered if not Restricted and Authenticated |
-| redirect        | string     | /login       | -          | If restricted it will be redirected to this route                        |
+| redirect        | string     | /login       | -          | If restricted on not authenticated it will be redirected to this route   |
 | isAuthenticated | bool       | false        | -          | To check whether route is Authenticated                                  |
 
 ### Issues
