@@ -1,7 +1,7 @@
 # React-Routing
 
 ![react-private-public-route](https://github.com/ronaksonigara/react-private-public-route/workflows/react-private-public-route/badge.svg)
-[![npm version](https://badge.fury.io/js/react-private-public-route.svg)](https://www.npmjs.com/package/react-private-public-route)
+[![npm version](https://img.shields.io/badge/version-1.1.1-brightgreen)](https://www.npmjs.com/package/react-private-public-route)
 [![styled with prettier](https://img.shields.io/badge/styled_with-prettier-ff69b4.svg)](https://github.com/prettier/prettier)
 
 Public and Private Routng with restricted functionality in React
